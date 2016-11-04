@@ -1,0 +1,2 @@
+# staticapp
+sample static
